@@ -24,6 +24,7 @@ application architectures, such as Microsoft's "Prism" framework.
 * And much, much more
 
 
+
 This implementation of the application uses Marionette's module system. 
 Variations using RequireJS and a more classic approach to JavaScript modules 
 [are also available here](https://github.com/marionettejs/backbone.marionette/wiki/Projects-and-websites-using-marionette).
